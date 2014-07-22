@@ -1,17 +1,3 @@
-What is abstraction?
-- things that separate implementation from details.
-What is a CSS selector?
-
-
-# Title slide
-Hi everyone! I’m michelle, and I’m an engineer here at stripe.
-
-Now, how many of you have played around with CSS before?
-
-
-
-Perfect, so you all know some basics!
-
 # First encounters
 
 Today I’m going to tell my coming-of-age story, and my long-lived struggle with CSS.

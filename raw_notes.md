@@ -126,8 +126,6 @@ If any of you are interested, I’d be happy to talk about that problem after th
 I got the job, somehow, and this became my first foray into actual real life production CSS. How many of you have ever heard of a CSS preprocessor?
 
 
-TODO: explain preprocessor.
-
 At Quizlet we used a CSS preprocessor called Stylus. It’s this magical layer of abstraction that allows you to write CSS intuitively. You can have things inherit, have variables, etc, etc.
 
 And so basically you can think about css as little as possible. Just write CSS as you would write code. Reuse variables, etc.
